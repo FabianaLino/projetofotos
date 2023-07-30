@@ -1,7 +1,9 @@
 # Terceiro projeto Imersão Vire Dev com Pedro Marins.
 
-##### Este projeto é a criação de um portfolio fotografico com apresentação pessoal galeria de trabalhos. Segue abaixo layout da aplicação:
-![Layout da aplicação:](layouthome.png)
+##### Este projeto é a criação de um portfolio fotográfico com apresentação pessoale e link para galeria de trabalhos (ainda em desenvolvimento).
+ Segue abaixo layout da aplicação:
+
+![Layout da aplicação:](public/layouthome.png)
 ---
 
 ## Projeto criado por: 
