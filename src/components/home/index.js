@@ -7,7 +7,7 @@ export const Home=()=>{
             <div className="container-total">
                 <div className="container-foto">
                     <div className="foto">
-                        <img className="foto-principal" alt="Foto Fotografo" src="fotohome.png" width={888} height={500} /> 
+                        <img className="foto-principal" alt="Foto Fotografo" src="fotofotografo.png" width={888} height={500} /> 
                         <div className="titulo-principal">
                             <h1>FOTOS & FILMAGENS</h1>   
                         </div>                                             

@@ -27,7 +27,7 @@ export const Container = styled.div`
     .container-bio{
         margin: 30px;
         width: 75%;  
-        background-image: linear-gradient(#46697d, #87332d, #242b28);        
+        background-image: linear-gradient(#46697d, #d6b48d, #242b28);        
     }
 
     .titulo2{
@@ -64,3 +64,5 @@ export const Container = styled.div`
         border-radius: 10px;
     }
 `;
+
+  
